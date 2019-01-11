@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kwtucker/StackIt/src"
+	"github.com/kwtucker/Stack/src"
 )
 
 var stack = &src.Stack{
